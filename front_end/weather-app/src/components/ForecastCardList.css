@@ -1,0 +1,16 @@
+.forecast-card-list {
+  background-color: #40444b;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.forecast-card-list h2 {
+  color: #ffffff;
+}
+
+.forecast-card-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
